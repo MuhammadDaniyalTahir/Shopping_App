@@ -1,4 +1,4 @@
-package com.example.firebaseassignment;
+package com.example.shopping_app;
 
 import android.os.Bundle;
 import android.widget.Button;

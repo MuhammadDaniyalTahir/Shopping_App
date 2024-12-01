@@ -49,4 +49,16 @@ dependencies {
     implementation("com.google.firebase:firebase-analytics")
 
     implementation ("com.firebaseui:firebase-ui-auth:7.2.0")
+
+
+
+    implementation("com.google.firebase:firebase-database")
+    implementation("com.google.firebase:firebase-firestore")
+
+    // FirebaseUI Libraries
+    implementation ("com.firebaseui:firebase-ui-database:8.0.2")
+
+    // Dependency for Firebase REaltime Database
+    implementation ("com.google.firebase:firebase-database:19.3.1")
+    implementation ("com.google.android.material:material:1.1.0")
 }

@@ -1,4 +1,4 @@
-package com.example.firebaseassignment;
+package com.example.shopping_app;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.firebaseassignment.adapter.ShoppingItemAdapter;
+import com.example.shopping_app.adapter.ShoppingItemAdapter;
 import com.example.firebaseassignment.model.ShoppingItem;
 import com.firebase.ui.database.FirebaseRecyclerOptions;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;

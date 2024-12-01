@@ -1,4 +1,4 @@
-package com.example.firebaseassignment.adapter;
+package com.example.shopping_app.adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,7 +10,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.firebaseassignment.R;
+import com.example.shopping_app.R;
 import com.example.firebaseassignment.model.ShoppingItem;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.firebase.ui.database.FirebaseRecyclerOptions;

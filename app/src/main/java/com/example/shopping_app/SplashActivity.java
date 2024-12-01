@@ -1,4 +1,4 @@
-package com.example.firebaseassignment;
+package com.example.shopping_app;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,6 +9,9 @@ import android.widget.ImageView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.shopping_app.LoginActivity;
+import com.example.shopping_app.R;
+import com.example.shopping_app.ShoppingListActivity;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
