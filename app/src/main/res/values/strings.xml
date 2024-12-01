@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">Shopping_App</string>
+    <string name="app_name">Shopping List</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="new_user_register">New User? Register Here</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_password_instructions">Enter your email address to receive password reset instructions</string>
+    <string name="add_item">Add Item</string>
+    <string name="item_name">Item Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="add">Add</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="logout">Logout</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="passwords_not_match">Passwords do not match</string>
+    <string name="login_failed">Login failed</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="reset_email_sent">Reset email sent</string>
+    <string name="reset_email_failed">Failed to send reset email</string>
+    <string name="enter_email">Please enter email</string>
+    <string name="item_added">Item added successfully</string>
+    <string name="add_item_failed">Failed to add item</string>
+    <string name="app_logo">App Logo</string>
+    <string name="quantity_label">Quantity:</string>
+    <string name="price_label">Price: $</string>
 </resources>
